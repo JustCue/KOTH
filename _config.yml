@@ -10,3 +10,5 @@ aux_links:
 logo: "assets/images/koth_logo.jpg"
 
 favicon_ico: "assets/images/koth_logo.jpg"
+
+color_scheme: dark
