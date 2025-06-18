@@ -5,7 +5,7 @@ theme: just-the-docs
 url: https://just-the-docs.github.io
 
 aux_links:
-  Template Repository: [Join Our Discord](https://discord.gg/Es9FsVxH)
+  Join Our Discord: https://discord.gg/Es9FsVxH
 
 logo: "assets/images/koth_logo.jpg"
 
