@@ -33,7 +33,7 @@ table-layout: auto
 This chart details the compatibility of various weapons with a range of attachments, including suppressors and optics. A green checkmark (✅) indicates compatibility, while a red cross (❌) indicates incompatibility.
 
 | Weapon | HOLO XPS| UH-1 | AIMPOINT M | MRO | PK-06 | BARSKA | ACO | OPK-7RIS | ECLAN HCO | DELTA POINT | ACOG 4x20 | ECLAN C79 | EOTECH G33 | AIMPOINT 3x6x | HAMR | SPECTRE | VUDU | LEUPOLD | VORTEX | M110 SCOPE | M-107 SCOPE | M-200 SCOPE | RAZOR 1-3 SCOPE | Suppressor |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
 | **GLOCK 18**  | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | NA |
 | **GLOCK 17** | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | NA |
 | **FN 5-7** | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | NA |
