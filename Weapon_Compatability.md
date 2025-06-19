@@ -23,7 +23,6 @@ titles:
       fr-LU   : *FR
       tr      : &TR       Arşivdekiler
 full_width: true
-table-layout: auto
 ---
 
 
@@ -32,38 +31,111 @@ table-layout: auto
 
 This chart details the compatibility of various weapons with a range of attachments, including suppressors and optics. A green checkmark (✅) indicates compatibility, while a red cross (❌) indicates incompatibility.
 
-| Weapon | HOLO XPS| UH-1 | AIMPOINT M | MRO | PK-06 | BARSKA | ACO | OPK-7RIS | ECLAN HCO | DELTA POINT | ACOG 4x20 | ECLAN C79 | EOTECH G33 | AIMPOINT 3x6x | HAMR | SPECTRE | VUDU | LEUPOLD | VORTEX | M110 SCOPE | M-107 SCOPE | M-200 SCOPE | RAZOR 1-3 SCOPE | Suppressor |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
-| **GLOCK 18**  | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | NA |
-| **GLOCK 17** | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | NA |
-| **FN 5-7** | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | NA |
-| **HK 416** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | NT4 SUPPRESSOR |
-| **SG 550** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ROTEX SIG SUPPRESSOR |
-| **CZ SCORPION** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | GENERIC 9MM |
-| **KOMRAD 12** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | NA |
-| **FBI LEVER 45-70** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | NA |
-| **FBI MP-7** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | M16 SUPPRESSOR |
-| **AK-74N PDC** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | PBS4 SUPPRESSOR |
-| **FBI TYPE 64** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | NA |
-| **RPK RAILED** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | PBS4 SUPPRESSOR |
-| **M21 RAILED** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | M110 SUPPRESSOR |
-| **AK-105** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | AK105 SUPPRESSOR |
-| **SVD RAILED** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | NA |
-| **FBI SIG MCX** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | MCX SUPPRESSOR |
-| **FBI KSG-12** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | NA |
-| **SCAR-20S DMR**| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | SCAR-20 SUPPRESSOR |
-| **SG 553 UGL** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ROTEX SIG SUPPRESSOR |
-| **FBI FN MP-9** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | NA |
-| **MK-48** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | NA |
-| **M110 7.62x51**| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | M110 SUPPRESSOR |
-| **AK-74 PDC GP25**| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | PBS4 SUPPRESSOR |
-| **FBI MK-47** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | MK-47 SUPPRESSOR |
-| **M249 RAILED** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | NA |
-| **FBI AA-12** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | NA |
-| **MAR-10** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | MAR-10 SUPPRESSOR |
-| **PKM RAILED** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | PKM RAIL SUPPRESSOR |
-| **HONEY BADGER**| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ALREADY SUPPRESSED |
-| **FBI FN P90** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | P90 SUPPRESSOR |
-| **BARRETT M-82**| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | NA |
-| **AS-50** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | NA |
-| **CHEYTAC 408**| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | NA |
+# Weapon and Attachment Compatibility
+
+
+<style>
+/* Responsive visibility for mobile vs desktop */
+@media (min-width: 768px) {
+  .mobile-view { display: none; }
+  .desktop-view { display: block; }
+}
+@media (max-width: 767px) {
+  .mobile-view { display: block; }
+  .desktop-view { display: none; }
+}
+
+/* Desktop table styling */
+table {
+  width: 100%;
+  max-width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+  word-wrap: break-word;
+}
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+thead {
+  background-color: #f2f2f2;
+}
+</style>
+
+{% comment %}
+Dynamically extract all unique attachment keys
+{% endcomment %}
+{% assign all_keys = "" %}
+{% for item in site.data.weapon_compatibility %}
+  {% for key in item.attachments %}
+    {% unless all_keys contains key[0] %}
+      {% assign all_keys = all_keys | append: key[0] | append: "," %}
+    {% endunless %}
+  {% endfor %}
+{% endfor %}
+{% assign attachment_keys = all_keys | split: "," | uniq | sort %}
+{% assign attachment_keys = attachment_keys | reject: "" %}
+
+<div class="desktop-view">
+  <table>
+    <thead>
+      <tr>
+        <th>Weapon</th>
+        {% for key in attachment_keys %}
+          <th>{{ key | replace: '_', ' ' }}</th>
+        {% endfor %}
+        <th>Suppressor</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for item in site.data.weapon_compatibility %}
+      <tr>
+        <td><strong>{{ item.weapon }}</strong></td>
+        {% for key in attachment_keys %}
+          <td>
+            {% if item.attachments[key] == true %}
+              ✅
+            {% else %}
+              ❌
+            {% endif %}
+          </td>
+        {% endfor %}
+        <td>
+          {% if item.suppressor != "NA" %}
+            ✅ ({{ item.suppressor }})
+          {% else %}
+            ❌
+          {% endif %}
+        </td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+<div class="mobile-view">
+  {% for item in site.data.weapon_compatibility %}
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 10px 0; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0;">{{ item.weapon }}</h3>
+
+    <div><strong>Attachments:</strong></div>
+    <ul style="list-style: none; padding: 0;">
+      {% for key in attachment_keys %}
+        <li>{{ key | replace: '_', ' ' }}: {% if item.attachments[key] == true %}✅{% else %}❌{% endif %}</li>
+      {% endfor %}
+    </ul>
+
+    <div>
+      <strong>Suppressor:</strong>
+      {% if item.suppressor != "NA" %}
+        ✅ ({{ item.suppressor }})
+      {% else %}
+        ❌
+      {% endif %}
+    </div>
+  </div>
+  {% endfor %}
+</div>
